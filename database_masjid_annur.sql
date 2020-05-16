@@ -127,8 +127,8 @@ INSERT INTO `foto` (`ID_FOTO`, `ID_ACARA`, `FOTO`) VALUES
 (6, 14, 'boba.jpg'),
 (7, 2, 'mamah-sum.jpg'),
 (8, 14, 'icon_pc.jpg');
-
 -- --------------------------------------------------------
+-----------------------------------------------------------
 
 --
 -- Table structure for table `penceramah`
